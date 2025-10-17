@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@paystack/inline-js": "^2.22.7",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
